@@ -4,4 +4,4 @@
 
 -------
 
-![Tampilan Vinco Security](assets/212_com.termux-edit.jpg)
+[Tonton Video YouTube Saya di Sini](https://youtu.be/hSUPcbbSau8?si=h951kRa7ZCDLXQvn)
