@@ -1,0 +1,17 @@
+# Vinco Security
+
+Penjelasan singkat tentang apa itu Vinco Security (contoh: Alat sederhana untuk mengecek keamanan sistem pada lingkungan Termux).
+
+## Fitur
+* Fitur 1: Penjelasan singkat.
+* Fitur 2: Penjelasan singkat.
+* Otomatisasi pemindaian keamanan lokal.
+
+## Cara Instalasi
+Pastikan kamu sudah menginstal Python di Termux:
+
+```bash
+pkg install python
+pkg install git
+git clone [https://github.com/adamizhar/vinco_security](https://github.com/adamizhar/vinco_security)
+cd vinco_security
